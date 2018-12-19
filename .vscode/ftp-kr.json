@@ -1,0 +1,17 @@
+{
+    "host": "phouse.co",
+    "username": "courier-s@phouse.co",
+    "password": "12345678",
+    "remotePath": "",
+    "protocol": "ftp",
+    "port": 0,
+    "fileNameEncoding": "utf8",
+    "autoUpload": false,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode",
+        ".env"
+    ]
+}
